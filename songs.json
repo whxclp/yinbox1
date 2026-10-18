@@ -4041,6 +4041,110 @@
       "lrc": "",
       "type": "mv",
       "new": true
+    },
+    {
+      "title": "美丽的草原我的家",
+      "artist": "",
+      "file": "10首经典民歌-1.mp4",
+      "lrc": "",
+      "type": "mv"
+    },
+    {
+      "title": "在那遥远的地方",
+      "artist": "",
+      "file": "10首经典民歌-2.mp4",
+      "lrc": "",
+      "type": "mv"
+    },
+    {
+      "title": "康定情歌",
+      "artist": "",
+      "file": "10首经典民歌-3.mp4",
+      "lrc": "",
+      "type": "mv"
+    },
+    {
+      "title": "有一个美丽的地方",
+      "artist": "",
+      "file": "10首经典民歌-4.mp4",
+      "lrc": "",
+      "type": "mv"
+    },
+    {
+      "title": "父亲的草原母亲的河",
+      "artist": "",
+      "file": "10首经典民歌-5.mp4",
+      "lrc": "",
+      "type": "mv"
+    },
+    {
+      "title": "龙船调",
+      "artist": "",
+      "file": "10首经典民歌-6.mp4",
+      "lrc": "",
+      "type": "mv"
+    },
+    {
+      "title": "绣荷包",
+      "artist": "",
+      "file": "10首经典民歌-7.mp4",
+      "lrc": "",
+      "type": "mv"
+    },
+    {
+      "title": "沂蒙山小调",
+      "artist": "",
+      "file": "10首经典民歌-8.mp4",
+      "lrc": "",
+      "type": "mv"
+    },
+    {
+      "title": "紫竹调",
+      "artist": "",
+      "file": "10首经典民歌-9.mp4",
+      "lrc": "",
+      "type": "mv"
+    },
+    {
+      "title": "月光下的凤尾竹",
+      "artist": "",
+      "file": "10首经典民歌-10.mp4",
+      "lrc": "",
+      "type": "mv"
+    },
+    {
+      "title": "我求错了人（深情版）",
+      "artist": "乡野低频",
+      "file": "songs/我求错了人_乡野低频.mp3",
+      "lrc": ""
+    },
+    {
+      "title": "二人转 包公赔情（韩子平·董玮）",
+      "artist": "韩子平 / 董玮",
+      "file": "二人转包公赔情.mp4",
+      "lrc": "",
+      "type": "mv"
+    },
+    {
+      "title": "二人转 回杯记（韩子平·董纬）",
+      "artist": "韩子平 / 董纬",
+      "file": "二人转回杯记.mp4",
+      "lrc": "",
+      "type": "mv"
+    },
+    {
+      "title": "拉场戏 摔三弦（赵本山）",
+      "artist": "赵本山",
+      "file": "拉场戏摔三弦.mp4",
+      "lrc": "",
+      "type": "mv"
+    },
+    {
+      "title": "二人转 包公断案（小沈阳·沈春阳）",
+      "artist": "小沈阳 / 沈春阳",
+      "file": "二人转包公断案.mp4",
+      "lrc": "",
+      "type": "mv"
     }
   ]
 }
