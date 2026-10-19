@@ -484,6 +484,7 @@ function render(){
     chip('蒲剧','sec-puju');
     chip('二人转','sec-errenzhuan');
     chip('MV','sec-mv');
+    if(colls['杜殿虎歌曲'] && colls['杜殿虎歌曲'].length){ chip('杜殿虎歌曲','sec-coll-杜殿虎歌曲'); }
     nav.innerHTML = chips.join('');
     nav.onclick = e=>{
       const c = e.target.closest('.chip');
